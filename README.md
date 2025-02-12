@@ -10,4 +10,5 @@ Welcome!
 
 ⚡ Fun fact: I’ve volunteered as a facilitator, teaching cybersecurity to inspire the next generation of tech-savvy individuals!
 
-📸 I sometimes love scenic photography and upload my content to [![Pexels](https://img.shields.io/badge/Pexels-8A2BE2)](https://www.pexels.com/@supushpitha/), where it has gained over 4 million views!
+📸 I sometimes love scenic photography and upload my content to [![Pexels](https://img.shields.io/badge/build-My%20Profile-brightgreen?style=flat&logo=pexels&logoColor=green&label=Pexels&color=rgb&cacheSeconds=3600
+)](https://www.pexels.com/@supushpitha/), where it has gained over 4 million views!
