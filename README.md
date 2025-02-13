@@ -12,4 +12,7 @@ Welcome!
 
 📸 I sometimes love scenic photography and upload my content to [![Pexels](https://img.shields.io/badge/build-My%20Profile-brightgreen?style=flat&logo=pexels&logoColor=%23FFD800&label=Pexels&color=rgb&cacheSeconds=3600)](https://www.pexels.com/@supushpitha/), where it has gained over 4 million views!
 
+[![supushpitha.com](https://img.shields.io/badge/Visit-supushpitha.com-brightgreen?style=plastic&link=supushpitha.com
+)](https://www.supushpitha.com)
+
 [![Insta](https://img.shields.io/badge/%40supushpitha-brightgreen?style=social&logo=instagram&logoColor=%23FF0089&label=Insta!&color=rgb&cacheSeconds=3600)](https://www.instagram.com/supushpitha/)
